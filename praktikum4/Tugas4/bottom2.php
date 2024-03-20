@@ -5,7 +5,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2024-2025 <a href="#">Rahmi Fauziyyah</a>.</strong>
+    <strong>Copyright &copy; 2024-2025 <a href="#">Rahmi Fauziah Rambe</a>.</strong>
     All rights reserved.
     </div>
   </footer>
